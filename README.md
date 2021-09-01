@@ -1,4 +1,4 @@
-# OS_secret_files_Scanner
+# OS_secret_files_Scanner for AMIs
 Under building ....
 
 Project under development, 
